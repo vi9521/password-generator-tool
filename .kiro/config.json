@@ -1,0 +1,5 @@
+{
+  "project": "password-generator-tool",
+  "description": "A simple micro-tool that generates secure passwords.",
+  "version": "1.0.0"
+}
